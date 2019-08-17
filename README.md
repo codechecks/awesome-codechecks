@@ -9,7 +9,9 @@ A curated list of awesome codechecks for almost anything
 - [lighthouse-keeper](https://github.com/codechecks/lighthouse-keeper) - Keep an eye on Google Lighthouse score changes 💡👀
 
 ### Visual regression
+
 You can employ visual regression in few different wayes, depending on complexity of your app.
+
 - [vis-reg-routes](https://github.com/codechecks/vis-reg-routes) — Visual Regression performed on selected routes of the app
 - [vis-reg](https://github.com/codechecks/vis-reg) — Core visual regression codechecks, just provide path to directory with images
 
