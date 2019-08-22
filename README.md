@@ -17,7 +17,7 @@ You can employ visual regression in few different wayes, depending on complexity
 
 ## TypeScript
 
-- [type-coverage-watcher](https://github.com/codechecks/type-coverage-watcher) - Track missing type coverage to ensure type safety
+- [TypeCov](https://github.com/codechecks/typecov) - Track missing type coverage to ensure type safety
 
 ## Blockchain
 
