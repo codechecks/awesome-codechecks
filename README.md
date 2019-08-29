@@ -15,6 +15,10 @@ You can employ visual regression in few different wayes, depending on complexity
 - [vis-reg-routes](https://github.com/codechecks/vis-reg-routes) — Visual Regression performed on selected routes of the app
 - [vis-reg](https://github.com/codechecks/vis-reg) — Core visual regression codechecks, just provide path to directory with images
 
+## Git
+
+- [codechecks-git-no-uncommitted](https://github.com/MichalZalecki/codechecks-git-no-uncommitted) - Detect uncommitted files that changed unexpectedly during your CI process
+
 ## TypeScript
 
 - [TypeCov](https://github.com/codechecks/typecov) - Track missing type coverage to ensure type safety
