@@ -7,6 +7,7 @@ A curated list of awesome codechecks for almost anything
 - [build-size-watcher](https://github.com/codechecks/build-size-watcher) - Keep your bundle size in check and detect when it gets too big.
 - [commit-deployment](https://github.com/codechecks/commit-deployment) - Ship every code change that you make
 - [lighthouse-keeper](https://github.com/codechecks/lighthouse-keeper) - Keep an eye on Google Lighthouse score changes 💡👀
+- [codechecks-dependency-cruiser](https://github.com/MichalZalecki/codechecks-dependency-cruiser) - Validate module dependencies with dependency-cruiser
 
 ### Visual regression
 
